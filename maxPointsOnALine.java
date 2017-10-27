@@ -62,12 +62,3 @@ public class maxPointsOnALine {
         return sign+String.valueOf(Math.abs(a)/gcd)+"/"+String.valueOf(Math.abs(b)/gcd);
     }
 }
-
-
-
-
-
-
-
-
-
